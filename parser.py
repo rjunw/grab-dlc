@@ -5,7 +5,8 @@ def get_dlc(app_id):
     try:
         game.get_response()   
         app_data = game.get_appdata()
-        print(f"DLCs for game {game.get_gametitle()}:\n")
+        print(f"DLCs for game {game.get_gametitle()}:")
+        print("==============" + "="*len(game.get_gametitle()) + "==============")
         for dlc in app_data:
             print(f'{dlc} = {app_data[dlc]}')
     except:

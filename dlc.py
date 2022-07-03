@@ -12,7 +12,7 @@ class DLC:
     
     def get_response(self):
         """
-        Performs a GET on a steam dlc page for a given <app_d> of game
+        Performs a GET on a steam dlc page for a given <app_id> of game
         """
         try:
             head_text = 'Steam DLC Page: '
