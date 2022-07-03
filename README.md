@@ -6,4 +6,4 @@ Parse Steam HTML to get DLC appid's
 Run `python parser.py` and enter game id!
 
 ## Example
-![Example](https://imgur.com/a/1KDEy2L)
+![Example]([https://imgur.com/a/1KDEy2L](https://i.imgur.com/9MfRORo.png))
