@@ -12,3 +12,4 @@ Run `python parser.py` and enter game id!
 * Scour through `<steam_dir>` and use the game id's there
 * Build a GUI (or TUI?)
 * Redirect formatted outputs to files
+* Generalize this when it inevitably breaks from steam website changes
